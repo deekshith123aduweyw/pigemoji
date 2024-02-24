@@ -1,0 +1,101 @@
+#ear1{
+    width:135px;
+    height:135px;
+    background-color: pink;
+    border:7px solid black;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 303px;
+}
+#ear2{
+    width:135px;
+    height:135px;
+    background-color: pink;
+    border:7px solid black;
+    border-radius: 120%;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 657px;
+}
+#head{
+    width: 400px;
+    height:400px;
+    background-color: pink;
+    border:7px solid black;
+    border-radius: 100%;
+    transform: translate(100px);
+    position: relative;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+#eye1{
+    width:110px;
+    height: 110px;
+    background-color: white;
+    border:5px solid black;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+#eye2{
+    width:110px;
+    height: 110px;
+    background-color: white;
+    border:5px solid black;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 232px;
+}
+#ball1{
+    width:40px;
+    height: 40px;
+    background-color: black;
+    border:5px solid black;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#ball2{
+    width:40px;
+    height: 40px;
+    background-color: black;
+    border:5px solid black;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 30px;
+    margin-left:30px;
+}
+.nose{
+    width:220px;
+    height: 120px;
+    background-color: palevioletred;
+    border:5px solid black;
+    border-radius: 35%;
+    position: absolute;
+    margin-top: 230px;
+    margin-left:90px;
+}
+#nostril1{
+    width:40px;
+    height: 60px;
+    background-color: black;
+    border:5px solid black;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 25px;
+    margin-left:30px;
+}
+#nostril2{
+    width:40px;
+    height: 60px;
+    background-color: black;
+    border:5px solid black;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 25px;
+    margin-left:140px;
+}
